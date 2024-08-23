@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "walksycrystaloptimizer",
+  "id": "appleskin",
   "version": "${version}",
 
-  "name": "Walksy Optimizer",
+  "name": "appleskin",
   "description": "Allows you to place crystals much faster",
   "authors": [
     "Walksy"
