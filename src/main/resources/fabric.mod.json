@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "id": "walksycrystaloptimizer",
+  "id": "Sigma",
   "version": "${version}",
 
-  "name": "Walksy Optimizer",
+  "name": "Sigma",
   "description": "Allows you to place crystals much faster",
   "authors": [
-    "Walksy"
+    "Sigma"
   ],
   "contact": {
-    "homepage": "https://github.com/Walksy"
+    "homepage": "https://github.com/Sigma"
   },
 
-  "icon": "assets/optimizer/icon.png",
+  "icon": "assets/Sigma/icon.png",
 
   "environment": "client",
   "entrypoints": {
@@ -22,7 +22,7 @@
   },
 
   "mixins": [
-    "crystaloptimizer.mixins.json"
+    "Sigma.mixins.json"
   ],
 
   "depends": {
